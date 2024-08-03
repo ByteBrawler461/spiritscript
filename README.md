@@ -1,0 +1,2 @@
+# spiritscript
+script
